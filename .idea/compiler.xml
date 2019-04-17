@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aaa (1)" />
+        <module name="aaa (2)" />
+        <module name="luceneaday1" />
+        <module name="maven_ems" />
+        <module name="product" />
+        <module name="shiro" />
+        <module name="sss" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
