@@ -21,7 +21,7 @@ public class AdminController {
         admin.setPassword(password);
         Admin ad = adminService.login(admin);
         System.out.println(ad+"===================================");
-          System.out.println(ad+"---------------------------------------");
+          System.out.println(ad+"-----------------xses----------------------");
         if(ad!=null){
            session.setAttribute("admin",ad);
            return "redirect:/emp/queryAll";
